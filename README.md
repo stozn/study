@@ -1,2 +1,2 @@
-# SZU_Math_and_Computer
-Resources of Math and Computer lessons in SZU. 
+# 学习资料
+[原仓库地址](https://github.com/Hytidel/SZU_Math_and_Computer)
